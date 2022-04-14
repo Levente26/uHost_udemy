@@ -20,6 +20,7 @@ main {
 .testimonial__info {
   text-align: right;
   padding: 0.9rem;
+  /* font-stretch: ultra-expanded; */
 }
 
 #customer-2.testimonial {
@@ -54,6 +55,10 @@ main {
 
 .testimonial__text {
   margin: 0.2rem;
+  /* letter-spacing: 2px; */
+  /* white-space:pre-line; */
+  /* line-height: normal; */
+  /* text-shadow: 2px 2px 1px blue; */
 }
   
 @media (min-width: 40rem) {
