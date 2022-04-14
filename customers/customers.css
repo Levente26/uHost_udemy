@@ -80,9 +80,8 @@ main {
     width: 30%;
   }
 
-  /* .testimonial__list {
-    width: 80%;
-    margin: auto;
-  } */
+  main {
+    padding: 0;
+  }
 }
   
